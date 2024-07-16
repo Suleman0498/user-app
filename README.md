@@ -1,9 +1,12 @@
 # UserApp
 
 This project was generated with 
+
 [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8
+
 Node version 18.13.0
-NPM 8.19.3
+
+NPM version 8.19.3
 
 ## Development server
 
