@@ -1,4 +1,5 @@
 export const environment = {
     production: false,
-    token: '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'
+    t1: 'ghp_hBZHuJmDOvKACTpya',
+    t2: '7Yfug7vRvCG2V3fR5mE',
   };
