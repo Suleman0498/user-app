@@ -10,11 +10,12 @@ import { AgGridAngular } from 'ag-grid-angular';
 import { D3ChartComponent } from '../d3-chart/d3-chart.component';
 import { UserRoutingModule } from './user-routing.module';
 import { CommonModule } from '@angular/common';
+import { environment } from '../../../environments/environment';
 
 const uri = {
     uri: 'https://api.github.com/graphql',
     headers: new HttpHeaders({
-        Authorization: `Bearer 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`,
+        Authorization: `Bearer ${environment.token}`,
     })
 };
 export function createApollo(httpLink: HttpLink): ApolloClientOptions<any> {
