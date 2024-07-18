@@ -24,8 +24,6 @@ Before cloning/forking this project, make sure you have the following tools inst
    > git clone [https://github.com/Suleman0498/user-app.git](https://github.com/Suleman0498/user-app.git)
    >
    > cd user-app
-   >
-   > git checkout master
 
 2. Install dependencies
 
